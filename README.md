@@ -1,5 +1,5 @@
 # Open-Wifi
-Version 1.0 12/17/2015
+Version 1.0 01/05/2016
 CURRENTLY UNDER CONSTRUCTION
 
 
