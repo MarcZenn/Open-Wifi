@@ -7,7 +7,7 @@ CURRENTLY UNDER CONSTRUCTION
 
 The world is full of unused, vacant or spare WiFi. Rent stress-free wifi from people near you. It beats dealing with ISP's 
 
-This repo holds the source code for Open-Wifi. A community marketplace where people can list, discover, and rent WiFi, TO or FROM, others living nearby! Whether its your neighbors or your roomate/s it can help bring down the cost of your monthly internet bill or help you avoid dealing with those lovely Internet Service Providers....and that's the truth. 
+This repo holds the source code for Open-Wifi. A community marketplace where people can list, discover, and rent WiFi signal, TO or FROM, others living nearby! Whether its your neighbors or your roomate/s it can help bring down the cost of your monthly internet bill or help you avoid dealing with those lovely Internet Service Providers....and that's the truth. 
 
 While the developers of this project want to keep this app small, we are 
 eager to maintin a robust, collaborative, open-source code base.
