@@ -1,5 +1,5 @@
-<div class="container">
-  <div class="jumbotron">
+<section class="home-content">
+<!--   <div class="jumbotron">
     <h1>'Allo, 'Allo!</h1>
     <p class="lead">
       <img src="assets/images/yeoman.png" alt="I'm Yeoman"><br>
@@ -22,6 +22,34 @@
         <p><a ng-href="{{ awesomeThing.url }}">{{ awesomeThing.url }}</a></p>
       </div>
     </div>
-  </div>
+  </div> -->
+  <section class="jumbotron"> 
+    <div class="jumbotron-copy">
+      <h1 class="home-header"> The World is full of spare wifi</h1>
+      <h2 class="home-subheader">Rent stress-free wifi from people near you. It beats dealing with IP's</h2>
+      <input type="button" class="learn-more-button">Learn More<input> 
+    </div>
+  </section>
 
-</div>
+  <!-- consider placing the search bar within the jumbotron -->
+  <section class="home-search">
+    <div class="row searchInputContainer">
+      <div class="col s1">
+        <img src=""/>
+      </div>
+      <div class="searchBox col s9">
+        <textarea type="text" placeholder="Search for Hosted WiFi by Location" ng-model="search"></textarea>
+      </div>
+      <div class="col s1">
+        <a class="waves-effect waves-light btn" class="back-to-top" scroll-to-item scroll-to="#top-scroll">Search</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="how-it-works-content">
+    
+  </section>
+
+
+
+</section>
